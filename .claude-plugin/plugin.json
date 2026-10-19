@@ -1,0 +1,9 @@
+{
+  "name": "agent-factory",
+  "version": "0.1.0",
+  "description": "Old-time factory floor pane: Claude the foreman whips and screams at subagent workers, each a Claude variant dressed for its task.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "ludwich"
+  }
+}

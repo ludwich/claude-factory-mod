@@ -1,0 +1,5 @@
+{
+  "name": "claude-factory-mod",
+  "owner": { "name": "ludwich" },
+  "plugins": [{ "name": "agent-factory", "source": "./" }]
+}
